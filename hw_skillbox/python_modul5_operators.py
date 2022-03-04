@@ -96,7 +96,7 @@ else:
 
 # 2й вариант
 t = int(input('время? от 0 до 23 = '))
-if (t >= 0 and t < 8) or (t >= 10 and t < 12) or (t >= 14 and t < 15) or (t >= 18 and t < 20):
+if (t >= 0 and t < 8) or (t >= 10 and t < 12) or (t >= 14 and t < 15) or (t >= 18 and t < 20) or (t >= 22 and t <= 24):
   print('Посылку получить нельзя')
 else:
   print('Можно получить посылку')
