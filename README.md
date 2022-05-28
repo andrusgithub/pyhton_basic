@@ -1,4 +1,3 @@
-# repository_py
-`#pyhton`
+# Basic Pyhton `learn` and `work`
 
 ### Hello GitHub!
